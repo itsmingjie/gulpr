@@ -1,5 +1,8 @@
 {
-  "name": "gulp-start",
+  "name": "@mj66/gulpr",
+  "author": "Mingjie Jiang <jiang@mingjie.info>",
+  "homepage": "https://github.com/mj66/gulp-start",
+  "license" : "MIT",
   "version": "0.1.0",
   "dependencies": {},
   "devDependencies": {
